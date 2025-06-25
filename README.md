@@ -36,7 +36,8 @@
 
 ## 安装指南
 ### 环境要求
-- Python 3.8+  
+- Python 3.8+
+- deepface
 - CUDA 11.8（GPU用户）  
 
 ### 依赖安装
