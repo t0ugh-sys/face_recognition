@@ -4,7 +4,7 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8.0-brightgreen)](https://opencv.org/)  
 
 **集成 YOLOv8 人脸检测 + DeepFace 身份识别 + MiniXception 情绪分类**  
-> 一个基于单目RGB摄像头的实时分析系统，支持多人脸检测、身份识别与情绪分析，适用于安防监控、人机交互等场景。[1,6](@ref)
+> 一个基于单目RGB摄像头的实时分析系统，支持多人脸检测、身份识别与情绪分析，适用于安防监控、人机交互等场景。
 
 ---
 
@@ -46,4 +46,4 @@ git clone https://github.com/yourusername/face-recognition-system.git
 cd face-recognition-system  
 
 # 安装依赖（推荐使用虚拟环境）  
-pip install -r requirements.txt  # 包含OpenCV, DeepFace, ONNX Runtime等[2,7](@ref)
+pip install -r requirements.txt  # 包含OpenCV, DeepFace, ONNX Runtime等
